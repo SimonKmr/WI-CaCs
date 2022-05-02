@@ -2,9 +2,7 @@
 
 ## Effective Communication in Requirements Elicitation: A Comparison of Methoddologies
 ## 1. Einführung
-wir wollen ein kommunikations system designen oder zumindest herrausf 
-
-elicitation = Erkundung; 
+wir wollen ein kommunikations system designen oder zumindest herrausfinden was unsere nutzer brauchen. 
 
 ### 2. Design als Sozialer Prozess: Wichtigkeit von effektiver Kommunikation
 wir haben 2 Möglichkeiten
@@ -73,17 +71,56 @@ Sind wichtig, da sie helfen Kommunikation zu erleichtern. Sie werden als Kunden-
 Nutzer brauchen viel hilfe bei den Verhandlungen.
 #### 5 Representation
 ### 5. Erarbeitung von Anforderungen: Arten von Methoden
-#### 1.MUST
+Hier geht es um ein weiteren umfang als um rein technische Angelegenheiten (soziale, organisatorische und Menschliche Design elemente). Der Nutzer wird hier viel involviert. Dieses Paper versucht die Vergleiche der Systeme in einem mehr Thematischen ansatz zu strukturieren und mit dem fokus auf die Kommunikation in der Definitions Phase. Hier geht es erstmal um die 4 Ansätze.
+#### 1. MUST - Methoden für Design Aktivitäten
+Hat methoden für Teilhabendes-Design und 6 Prinzipien
+1. Project establishment (whats the problem?)
+2. Strategic analysis (clarification / focus)
+3. In-depth analysis
+4. Developing vision for overall change (mostly done in workshops)
+5. transfer project to users (übergabe des projektes an die nutzer)
+
 #### 2. JAD - Gemeinsames Anwendungs Design
+Wiederkehrende Meetings, in einem 5 Phasen Modell. 
+1. Definition
+2. Research
+3. Preparation
+4. group session
+5. final document
+
 #### 3. ULRC - Nutzer-Geleitete Anforderungs-Konstruktion
+Soll helfen Nutzer-Designer Kultur kluft zu überwinden. Nutzer lernen die Requirements eigenständigt zu definieren. Dies geschieht in 3 Runden:
+1. Training of Users
+2. Construction of Model
+3. Improve Model
+
 #### 4. SSM - Sanfte System Methodik
+Wird genutzt um herr übers Chaos zu werden. Ist in 7 Phasen definiert:
+1. Formulation of Problem, represented in pictorial form (1-3)
+2. To Create new Perspectives
+3. Creating Model based on Perspective (4)
+4. Comparing Model against Reality/Problem (5)
+5. Discuss Model (6)
+6. Implementation (7)
+
 #### 5. Auswahlsverfahren
+
 #### 6. Vergleichsanalyse
 #### 7. Nutzer Teilhabe und Auswahl
 #### 8. Nutzer Designer Interaktion
 #### 9. Kommunikations Aktivitäten
 ### 6. Zusammenfassung
 ### 7. Zukünftige Forschungsmöglichkeiten
+### 8. Fragen
+- Wie äußern sich Kulturelle unterschiede zwischen den Nutzern und den Entwicklern?
+- Wie könnte man, in gewisse bereiche der Verantwortung des gesamtsystems auf entwickler und Nutzer aufteilen, bei welchen bereichen würde, welche gruppe sinn machen. Oder welches system verteilt die verantwortung am gerechtesten?
+- Die MUST und JAD sind sehr ähnlich aufgebaut, mit definieren was ist eigentlich das ziel, gefolgt von das Problem näher betrachten, Vorbereitungen erstellen, zu einer gemeinsamen zusammenarbeit, zu einem Endergebnis erstellen. Wo ist der Unterschied? Wieso wird dem im JAD dem designer die Kontrolle gegeben und in MUST dem Nutzer, obwohl der aufbau so gleichartig ist?
+- 
+
+### 9. Vokabeln
+- elicitation = Erkundung 
+- brevity = Kürze / Kurzfassung
+- facilitating = Erleichterung
 
 
 
