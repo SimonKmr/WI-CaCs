@@ -62,9 +62,26 @@ Sind aktivitäten in denen Stakeholders informationen austauschen und sind wicht
 verstehen und akzeptieren weshalb etwas ist, so wie es ist.
 Man kann Systeme nach diesen Punkten zuordnen, jedoch ist der Kontext wichtig.
 #### 4 Techniques
+Sind wichtig, da sie helfen Kommunikation zu erleichtern. Sie werden als Kunden-Entwickler Verknüpfungen beschrieben. Sie werden weiter in direkte und indirekte wege unterteilt.
+- traditional : Fragebögen / Interviews etc.
+- group : Brainstorming etc.
+- prototyping : mock-ups
+- model-driven : scenarios
+- cognitive : Protokollanalysen
+- contextual : Kulturforschung
 
+Nutzer brauchen viel hilfe bei den Verhandlungen.
 #### 5 Representation
 ### 5. Erarbeitung von Anforderungen: Arten von Methoden
+#### 1.MUST
+#### 2. JAD - Gemeinsames Anwendungs Design
+#### 3. ULRC - Nutzer-Geleitete Anforderungs-Konstruktion
+#### 4. SSM - Sanfte System Methodik
+#### 5. Auswahlsverfahren
+#### 6. Vergleichsanalyse
+#### 7. Nutzer Teilhabe und Auswahl
+#### 8. Nutzer Designer Interaktion
+#### 9. Kommunikations Aktivitäten
 ### 6. Zusammenfassung
 ### 7. Zukünftige Forschungsmöglichkeiten
 
