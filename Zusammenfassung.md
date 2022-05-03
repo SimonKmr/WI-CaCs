@@ -114,8 +114,10 @@ Wird genutzt um herr übers Chaos zu werden. Ist in 7 Phasen definiert:
 ### 8. Fragen
 - Wie äußern sich Kulturelle unterschiede zwischen den Nutzern und den Entwicklern?
 - Wie könnte man, in gewisse bereiche der Verantwortung des gesamtsystems auf entwickler und Nutzer aufteilen, bei welchen bereichen würde, welche gruppe sinn machen. Oder welches system verteilt die verantwortung am gerechtesten?
+  - Basiert darauf, Designer wollen verantwortung übernehmen, weil diese auch das System warten müssen. Nutzer wollen verantwortung haben weil sie das System auch nutzen müssen. Wie könnte man beiden einen Gerechten anteil an Involvement geben? Welche Systeme könnten einem Helfen die Verantwortung gerecht zu verteilen?
 - Die MUST und JAD sind sehr ähnlich aufgebaut, mit definieren was ist eigentlich das ziel, gefolgt von das Problem näher betrachten, Vorbereitungen erstellen, zu einer gemeinsamen zusammenarbeit, zu einem Endergebnis erstellen. Wo ist der Unterschied? Wieso wird dem im JAD dem designer die Kontrolle gegeben und in MUST dem Nutzer, obwohl der aufbau so gleichartig ist?
-- 
+    - könnte man die systeme in einem Unterbringen und die anlernung Generalisieren?
+    - Wieso können die Systeme so gleich sein, jedoch in dem Nutzenbereich so unterschieldich
 
 ### 9. Vokabeln
 - elicitation = Erkundung 
@@ -123,4 +125,80 @@ Wird genutzt um herr übers Chaos zu werden. Ist in 7 Phasen definiert:
 - facilitating = Erleichterung
 
 
+## Information systems development and communicative action theory
+Wir glauben, dass die Probleme in Entscheidungs Unterstützungs Systemen entstehen, auch in Computer Basierten Informations Systemen Grund für Schwierigkeiten sind.
 
+### 1.Einführung
+Kommunikation zwischen Entwickler und Nutzer ist der Bottleneck / Setzt die Schranke des möglichen in der Entwicklung des Systems. 
+- Guinans Research: Wir schauen ob ein zusammenhang herscht über bewertung eines System Entwicklers und seiner Kompetzen zu Kommunizieren.
+- Abdul-Grader and Kozar: Rolle von Kommunikation in Experten Systemen, durch beobachtung dessen Entscheidungsfindungen, mithilfe von Diskurs Analyse Techniken.
+
+Sprache kann genutzt werden um die Form des Projektes verändern, deswegen darf es in der Kommunikation nicht zu vielen Missverständnissen kommen. Das ganze beschreibt man als zielgerichtete Sprache und ist daher performative. Dies sollte beachtet werden wenn ein System erstellt wird und ist auch wichtig für dein einbezug von Nutzern. Obwohl ein guter oder schlechter Rahmen in Sprache gegeben sein kann, bedeutet das nicht, dass das System ein erfolg wird oder fehlschlägt.
+
+### 2.Sprache und informations Systeme
+Weil sprache großen einfluss auf das Projekt haben kann, muss man Soziale Faktoren bei Sender und Empfänger bei der Analyse berücksichtigen. Sprache wird genutzt um Aktionen von anderen zu verändern, durch Versprechen oder Verlangen von Sachen.
+
+Sprache wird genutzt um gewisse gefühle beim Nutzer hervorzurufen, dies geschieht hier anhand eines Beispiels für eine Geldautomaten.
+
+- assertive -> grundlegend wahr
+- directive -> ist der Situation angemessen
+- commissive -> Ehrlichkeit und einhalten von Versprechen
+
+Habermas:
+- instrumental
+  -  Erfolgsorientiert. Beschreibt den zustand eines Objektes um den Nutzer etwas klar zu machen
+- strategic: 
+  - Jemanden mit einer Information beeinflussen. "An die Vernunft Appellieren", 
+  - jedoch benötigt man den Status dafür.
+- communicative
+  - Versuchen auf einen Nenner zu kommen.
+
+Je komplexer das Thema, desto schwieriger ist es aussagen durch wahrheit zu belegen und nicht durch autorithät. Jedoch ist ein Diskurs beruhend auf Wahrhaftigkeit wichtig für die Gleichberechtigung aller Partizipanten.
+### 3.Kommunikations Aktionen und DSS Entwicklung
+Dss sind dynamisch und viele leute mögen eher einen Iterativen ansatz
+
+Der nicht iterative ansatz sieht wie folgt aus:
+- analysis: Wie sieht das system aus? Was sind unsere Probleme? Wie viele mittel haben wir?
+- design : Entwicklung von Software / Hardware / Training
+- implementation: Evaluation und Wartung
+
+Iterativer Ansatz:
+- Erstellen von einem System
+- Feedback
+- Repeat
+
+Jedoch ist hier ungewisseheit über was benötigt wird kleiner und benötigt definitive mehrere Iterationen.
+
+Allgemein muss während der definitions Phase viel verhandelt werden, was großteils im Sozialen bereich statt findet und die verhandlenden sich stark mit versprechen etc absprechen müssen. Das wird häufig mit assertive, directive, commissive  and expressive speech act types geregelt.
+
+Programmieren ist nur Assertive Sprache.
+
+Nutzer merken unterschiede zwische das was das System macht und wie in der Organisation gearbeitet wird, deshalb müssen Nutzer und Designer nochmal verhandel oder der designer spricht mit Leuten die autorität besitzen um zu einer lösung zu kommen. Alternative kann der Designer längeren Support für das System anbieten und dem Nutzer so entgegen kommen.
+### 4.
+- Versicherung
+- Bus Unternehmen
+### 5.
+3 Dimensions:
+- Structure
+  - Stakeholders sind Involviert
+- Content
+  - Probleme die offen dargelegt werden und bei denen sich leute involvieren können und Probleme die geschlossen sind und kein involvement möglich ist.
+- Process
+  - Wie wird Wissen gewonnen
+
+Wieso das System in der Versicherung geschietert ist: Das Projekt war auf wenige zugeschnitten und konnte nicht auf die sich ändernde Geschäftsumgebung angepasst werden.
+
+Wieso das System innerhalb des Busunternehmens erfolgreich war: Dadurch, dass eine große anzahl von Nutzern sich zu dem System äußern konnten und viel Konflikt herrschte, konnten viele Gesichtspunkte berücksichtig werden und es wurde ein rigides System entworfen
+
+Ungewissheit und Ablehung vom Nutzer müssen demnach nicht negative aufgefasst werden und können beitrag zum erfolg des DSS leisten.
+
+### Fragen
+- veracity is an important part of a good discourse but hard to archive, are there principals to make it easier to create veracity in your enviroment? What would be an Important first Step to create such enviroment?
+- Wie könnte sichergestellt werden, das genügend leute Involviert sind, die genug verschiedende ansichten vertreten?
+### ASS
+- DSS = Decision Support System
+- CBIS = Computer Based Information Systems
+- CD = Certificate of Deposit
+
+### Vokabeln 
+- veracity = wahrhaftigkeit
