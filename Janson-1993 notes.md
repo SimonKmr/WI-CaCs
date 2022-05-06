@@ -27,8 +27,8 @@
 #### Action types
 
 1. instrumental action
-	- success orientated
-	- successfull, when accepted as true statement
+	- success orientated, truth
+	- successful, when accepted as true statement
 	- describes a state of affairs
 
 2. strategic action
@@ -42,15 +42,17 @@
 	- shows whether thee opponent reflects on the previous said
 
 - more difficult to operate in a social domain than in a declarative (eg machine)
-- claiming with respect is interpersonal poweer
+- claiming with respect is interpersonal power
 
-###  ommuniatiove action andd SS ddevelopmnt
+###  Communiatiove action and DSS development
 
-- standart development cycle 
-	- three stages anlysis, design and implementation
-	- designing, decicion making and planning
-- evolutionary aporach
+- standard development cycle 
+	- three stages analysis, design and implementation
+	- designing, decision making and planning
+- evolutionary apporach
 	- shorten the developmental cycle
-	- response of user feedback -> changes interatively
+	- response of user feedback -> changes iteratively
 	
+(hier fehlt noch content)
+
 
