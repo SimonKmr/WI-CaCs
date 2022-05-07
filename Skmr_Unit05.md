@@ -44,13 +44,29 @@ Compliance muss nicht immer bedeuten, dass die leute die gleichen werte vertrete
 - attractive and powerful leader
 - einstimmigkeit mit einem großteil der vertretenen Werte
 
-Wenn eine Gruppe starken zusammenhalt hat, kann ein starker drang innerhalb der Gruppe herrscht, einstimmig zu sein folgen. Weshalb sich leute selber Zensieren, was einen stärkeren Guppenzusammenhalt erscheinen lässt. Jedoch bedarf es dieser These Prüfungsbedarf.
+Wenn eine Gruppe starken zusammenhalt hat, kann ein starker drang innerhalb der Gruppe herrscht, einstimmig zu sein folgen. Weshalb sich leute selber Zensieren, was einen stärkeren Guppenzusammenhalt erscheinen lässt. Jedoch ist diese These Prüfungsbedürftig.
 
-**Hypothesis 2:** Work group members' technology use be-
-havior will be a positive predictor of an individual's tech-
-nology use behavior.
+**Hypothesis 2:** Work group members' technology use behavior will be a positive predictor of an individual's technology use behavior.
 
-**Hypothesis 3:** Work group members' technology use be-
-havior will be a stronger predictor of technology use be-
-havior for individuals who exhibit high rather than low
-attraction to the gr
+**Hypothesis 3:** Work group members' technology use behavior will be a stronger predictor of technology use behavior for individuals who exhibit high rather than low attraction to the group
+
+### Work-group- versus social-network-based social influence
+Zudem wurden Soziale netzwerke entworfen in denen sich die Akzeptanz des Systems von den Leuten innerhalb der Community abhängt. So gleicht sich die einstellung gegenüber des Systems, entweder dem Gruppendurchschnitt an oder den Anschein der Akzeptanz, mit den anderen die im Sozialen Netzwerk interagieren.
+
+Was sind die stärken von group social influence und social network ties? 
+(...?)
+
+**Hypothesis 4:** Work group members' attitudes and use of
+technology will explain variance in individuals' commu-
+nication technology use and attitudes beyond that ex-
+plained by ego-network-based social influence variable
+
+Wie stark sind die einflüssen von group social forces im vergleich zum ego network? Netzwerkvariablen haben moderate effects auf technologie Einstellung und verhalten. Group effects von sehr interessierten Menschen hingegen scheinen einen stärkeren effekt zu haben.
+
+**Hypothesis 5:** For individuals who exhibit high attraction
+to a work group, work-group-based social influence vari-
+ables will be stronger predictors of individual attitudes
+and behaviors than ego-network-based social influence
+variables.
+
+### Richness, usefulness, and frequency of use
