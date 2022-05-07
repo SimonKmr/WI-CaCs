@@ -202,3 +202,4 @@ Ungewissheit und Ablehung vom Nutzer müssen demnach nicht negative aufgefasst w
 
 ### Vokabeln 
 - veracity = wahrhaftigkeit
+
