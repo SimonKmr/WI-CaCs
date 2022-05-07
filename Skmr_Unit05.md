@@ -8,7 +8,7 @@ Technologien entstehen durch kombiantion von Unterschiedlichen elementen. Kommun
     - Etwas erregt aufmerksamkeit, wenn der Sprecher selber emotional investiert ist. Das schlägt sich dann über aufs Publikum.
     - Man spricht von "Enviromental enhancement", wenn die Umgebung ein verhalten fördert.
 
-Um das Verhalten zu modellieren müssen viele einflüsse berücksichtigt wernden, jedoch kann damit geieltes verhalten beeinflusst werden.
+Um das Verhalten zu modellieren müssen viele einflüsse berücksichtigt wernden, jedoch kann damit gezieltes verhalten beeinflusst werden.
 
 Social information Processing Theory beschäftigt sich damit, wie wir das verhalten unserer Mitarbeiter durch aussagen verändern
 - Social Information Processing Theory
@@ -20,3 +20,37 @@ Social information Processing Theory beschäftigt sich damit, wie wir das verhal
 Diese Faktoren haben einfluss wie wir ein Medium wahrnehmen und es behandeln. Ein Ziel wäre es ein System zu gestalten, dass unabhängig der Gruppe und Kontexts, gewisses verhalenten hervorruft.
 
 Vorraussetzung für viele diese Modelle ist, dass man verhalten durch wissen von sozialen und symbolischen interaktionen vorhersagen kann. Man hat versucht durch Studien zu belegen, dass mit sozialen einflüssen starke zusammenhänge existieren. Ein starker indikator dafür ist, das Leute zu gruppen tendieren, wo sie gewisse soziale einflüsse erwarten
+
+### Convergent Meanings and Coordinated Behavior in Formal Work Groups
+Wenn wir in gruppen arbeiten, passen wir unsere Realitätsvorstellung der Gruppe an. Dabei kann man das in 2 Wege beschreiben: Internalization, was bedeuten wir akzeptieren und glauben etwas. Compliance, dass wir uns der Gruppendynamic anpassen. Ein wichtiger Punkt für die Verinnerlichung ist, dass leute interesse an der gruppe haben. Wenn solch eine Person einer Gruppe beitritt, hat das vorteile wie:
+- pychological agreement
+- reduced tension
+- reduced anxiety
+- better communication
+
+Wenn eine Person jedoch wenig interess an einer Gruppe hat, hat das vermehrt negative auswirkungen:
+- lower drive for agreement
+- less pressure to get attitude / value conformaty
+- less interest on finding consensus
+- less communication
+
+**Hypothesis 1:** Work group technology attitudes will be a
+positive predictor of technology attitudes for individuals
+who exhibit high attraction to the group, but not for indi-
+viduals who exhibit low attraction
+
+Compliance muss nicht immer bedeuten, dass die leute die gleichen werte vertreten. Leute können sich der Gruppe unterwerfen, weil sie nicht negative auffallen wollen. Leute die jedoch interesse haben versuche auf grund folgender gründe sich dem Bild der Gruppe zu entsprechen:
+- den Gruppenormen
+- attractive and powerful leader
+- einstimmigkeit mit einem großteil der vertretenen Werte
+
+Wenn eine Gruppe starken zusammenhalt hat, kann ein starker drang innerhalb der Gruppe herrscht, einstimmig zu sein folgen. Weshalb sich leute selber Zensieren, was einen stärkeren Guppenzusammenhalt erscheinen lässt. Jedoch bedarf es dieser These Prüfungsbedarf.
+
+**Hypothesis 2:** Work group members' technology use be-
+havior will be a positive predictor of an individual's tech-
+nology use behavior.
+
+**Hypothesis 3:** Work group members' technology use be-
+havior will be a stronger predictor of technology use be-
+havior for individuals who exhibit high rather than low
+attraction to the gr
