@@ -189,9 +189,44 @@ therefore the use of specific media
 - MyCo:
 	- no assigned offices, work more from home
 	- meetings scheduled ahead of time, sometimes ad hoc
-	- lack of physical collocation -> exessive use of email
-	- 
+	- good for knowledge sharing
+
+### Interpersonal Trust
+
+- levels of trust influence behaviour and usage of media
+- interpersonal trust: extend of confidence to another (shortend)
+- individuals do not choose one communication and one media -> not every time each medium is suitable
+- problem: redundance
+- level low: less confidents in promisies or other statements from collegues
+
+Organizational Communication Media
+- email is not sufficient, but easier to keep all informed and everyone receives every information (people forget, what is said in meetings)
+- different aims lead to conflicts (cost or profit oriented)
 
 
+### Framework for Investigating Communication media repositories
+
+- further investigation in media reportoires 
+- influence is not determistic
+- two components: istitutional and stuational conditions
+- depending on urgent or not (individual perception)
+- expectations grow in a users group
+- asynchronus media -> veryfication at intorg, not at myco
+
+
+### Implications
+
+- institutional factors influence media choice
+- chat leads to different usage of media
+- interrelations between media and preferences of choice
+- companies could use protocols what media to use to educe uncertainties
+
+
+### Conclusion
+
+- need to develop and navigate different media usage
+- increasing number of communication media
+- comparing digital with face to face often insufficient
+- 
 ---
 Many companies wore reluctant to let their employees to work from home, but now make good experiences with doing so. Do 
