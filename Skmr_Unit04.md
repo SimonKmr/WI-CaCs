@@ -104,7 +104,7 @@ Wird genutzt um herr übers Chaos zu werden. Ist in 7 Phasen definiert:
 6. Implementation (7)
 
 #### 5. Auswahlsverfahren
-
+Alle vorgestellte verfahren machen einen Schwammigen Job eine Gruppe von Leuten zu definieren mit denen man viele
 #### 6. Vergleichsanalyse
 #### 7. Nutzer Teilhabe und Auswahl
 #### 8. Nutzer Designer Interaktion
