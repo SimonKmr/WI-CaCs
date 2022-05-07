@@ -1,6 +1,6 @@
 # Introduction
 
-- Organizations rely on information tech to supporr flexibility in processes
+- Organizations rely on information tech to support flexibility in processes
 - enables coworking while being separated in groups and various locations
 - Technologies for coworking increase, starting with mobile phones and instant messaging -> now multiple media environments
 
@@ -175,6 +175,23 @@ therefore the use of specific media
 
 ## Discussion: Shaping Hypotheses
 
-# Influencce of Institutional Factors
+### Influencce of Institutional Factors
 
-- numberous 
+- social structure
+- interpersonal trust
+
+### Physicall Structure of Workspace
+
+- IntOrg: Expected to work at side for the customer
+- usage of many communication media
+- 
+
+- MyCo:
+	- no assigned offices, work more from home
+	- meetings scheduled ahead of time, sometimes ad hoc
+	- lack of physical collocation -> exessive use of email
+	- 
+
+
+---
+Many companies wore reluctant to let their employees to work from home, but now make good experiences with doing so. Do 
