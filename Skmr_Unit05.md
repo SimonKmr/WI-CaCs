@@ -19,4 +19,4 @@ Social information Processing Theory beschäftigt sich damit, wie wir das verhal
 
 Diese Faktoren haben einfluss wie wir ein Medium wahrnehmen und es behandeln. Ein Ziel wäre es ein System zu gestalten, dass unabhängig der Gruppe und Kontexts, gewisses verhalenten hervorruft.
 
-Vorraussetzung für viele diese Modelle ist, dass man verhalten durch wissen von sozialen und symbolischen interaktionen vorhersagen kann. Man hat versucht durch Studien zu belegen, dass mit sozialen einflüssen starke zusammenhänge existieren. 
+Vorraussetzung für viele diese Modelle ist, dass man verhalten durch wissen von sozialen und symbolischen interaktionen vorhersagen kann. Man hat versucht durch Studien zu belegen, dass mit sozialen einflüssen starke zusammenhänge existieren. Ein starker indikator dafür ist, das Leute zu gruppen tendieren, wo sie gewisse soziale einflüsse erwarten
