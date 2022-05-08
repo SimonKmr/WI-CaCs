@@ -56,17 +56,24 @@ Zudem wurden Soziale netzwerke entworfen in denen sich die Akzeptanz des Systems
 Was sind die stärken von group social influence und social network ties? 
 (...?)
 
-**Hypothesis 4:** Work group members' attitudes and use of
-technology will explain variance in individuals' commu-
-nication technology use and attitudes beyond that ex-
-plained by ego-network-based social influence variable
+**Hypothesis 4:** Work group members' attitudes and use of technology will explain variance in individuals' communication technology use and attitudes beyond that explained by ego-network-based social influence variable
 
 Wie stark sind die einflüssen von group social forces im vergleich zum ego network? Netzwerkvariablen haben moderate effects auf technologie Einstellung und verhalten. Group effects von sehr interessierten Menschen hingegen scheinen einen stärkeren effekt zu haben.
 
-**Hypothesis 5:** For individuals who exhibit high attraction
-to a work group, work-group-based social influence vari-
-ables will be stronger predictors of individual attitudes
-and behaviors than ego-network-based social influence
-variables.
+**Hypothesis 5:** For individuals who exhibit high attraction to a work group, work-group-based social influence variables will be stronger predictors of individual attitudes and behaviors than ego-network-based social influence variables.
 
 ### Richness, usefulness, and frequency of use
+Die wahrnehmung von Richness ist abhängig von der Technogischen Möglichkeit schneller konsens von beduetungen zu erreichen. Wichtige faktoren für richness sind:
+- schnelles feedback
+- verbale und nicht verbale clues zu vermitteln
+- natürliche sprache über nummern
+- übermitteln von gefühlen und emotionen
+  
+Vernommenen Nutzen / usefulness wird durch die Nutzung (frequency) gemessen und ist auch e. Wenn beide Einstellungen (frequency und richness) hoch sind, dann können wir erwarten das die Nutzer die technologie verinnerlichen und (compliance) zeigen.
+
+### Media expertise
+medium experience, computer experience und keyboard skills, sind wichtig damit die Nutzer richness richtig wahrnehmen können. Sie sollten langsam an das Medium herrangeführt werden.
+Zudem ist dort eine verknüpfung zwischen "actual use behavior of significant sources of social influence and an individuals perception of the usefulness of the technology".
+
+### Perceived task attributes and dmographics
+### Endogenous relationships
