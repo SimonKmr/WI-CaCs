@@ -17,7 +17,7 @@ Social information Processing Theory beschäftigt sich damit, wie wir das verhal
   - Aufmerksamkeit auf ein Problem ziehen
   - Sagen ob ein verhalten angemessen war
 
-Diese Faktoren haben einfluss wie wir ein Medium wahrnehmen und es behandeln. Ein Ziel wäre es ein System zu gestalten, dass unabhängig der Gruppe und Kontexts, gewisses verhalenten hervorruft.
+Diese Faktoren haben einfluss wie wir ein Medium wahrnehmen und es behandeln. Ein Ziel wäre es ein System zu gestalten, dass unabhängig der Gruppe und Kontexts, gewisses verhalten hervorruft.
 
 Vorraussetzung für viele diese Modelle ist, dass man verhalten durch wissen von sozialen und symbolischen interaktionen vorhersagen kann. Man hat versucht durch Studien zu belegen, dass mit sozialen einflüssen starke zusammenhänge existieren. Ein starker indikator dafür ist, das Leute zu gruppen tendieren, wo sie gewisse soziale einflüsse erwarten
 
@@ -69,10 +69,10 @@ Die wahrnehmung von Richness ist abhängig von der Technogischen Möglichkeit sc
 - natürliche sprache über nummern
 - übermitteln von gefühlen und emotionen
   
-Vernommenen Nutzen / usefulness wird durch die Nutzung (frequency) gemessen und ist auch e. Wenn beide Einstellungen (frequency und richness) hoch sind, dann können wir erwarten das die Nutzer die technologie verinnerlichen und (compliance) zeigen.
+Vernommenen Nutzen / usefulness wird durch die Nutzung (frequency) gemessen. Wenn beide Einstellungen (frequency und richness) hoch sind, dann können wir erwarten das die Nutzer die technologie verinnerlichen und (compliance) zeigen.
 
 ### Media expertise
-medium experience, computer experience und keyboard skills, sind wichtig damit die Nutzer richness richtig wahrnehmen können. Sie sollten langsam an das Medium herrangeführt werden.
+medium experience, computer experience und keyboard skills, sind wichtig damit die Nutzer Richness richtig wahrnehmen können. Sie sollten langsam an das Medium herrangeführt werden.
 Zudem ist dort eine verknüpfung zwischen "actual use behavior of significant sources of social influence and an individuals perception of the usefulness of the technology".
 
 ### Perceived task attributes and dmographics
@@ -82,10 +82,55 @@ Aufgaben die mehrere Gruppen überspannen, sollten auch zu mehr Kommunikation ü
 
 Die drei Demographiken die wir anschauen, sind Alter, Bildung und Geschlecht.
 ### Endogenous relationships
-Das Social influence Model sieht effiziens zur kommunikation nicht als einzigen Gewichtspunk, sondern in wie vielen Situationen man es nutzen kann.
+Das Social influence Model sieht Effiziens der Kommunikation durch ein Medium nicht als einziges Bewertungskriterium, sondern legt hohen wert darauf, in wie vielen Situationen man das Medium nutzen kann.
 
 ### Data and Procedures
-sehe Seite 10 grafiken
+[sehe Seite 10 grafiken]
 
 Die daten wurden in einem Unternehmen, mit weltweiten standorten erhoben und die Nutzer wussten von ihrer Annonymität.
 
+### Measures
+#### Endogenous variables
+Leute mussten emails im rahmen von 4 fragen auf einer Skalar von 1-5 Bewerten.
+- ability to give and receive timely feedback
+- ability to transmit a variety of nonverbal clues
+- ability to tailor messages to personal circumstances
+- communication using rich and varied language
+
+Man hat dann das Rating der Leute ins verhältnis gesetzt mit anzahl der geschriebenen emails und ist auf eine Korrelation von .45 gekommen.
+#### Exogenous variables
+Man hat den Personenkreis des EgoNetworks nachmodelliert indem man, eine Stichprobe von Leuten, nach ihren Supervisor und 5 weiteren Individuen gefragt hat, mit den sie viel kontakt hatten, über verschiedene Medien hinweg. Man konnte dann mit der Bewertung des Vorgesetzten / Supervisors, im (endogenous variables?) Email Survey. (Arbeits-) Gruppennutzen, wurde durch die Wertung der Kontakte des Stichproben Invidium erstellt.  
+#### Medium expertise
+Leute mussten angeben wie viele Jahre sie E-Mails nutzen. Sie mussten auch ihre Computer-/Keyboardskills auf einer Skalar von 1-5 angeben.
+#### Attraction to a group
+Wurde bemessen indem die einzelnen Leute gefragt wurden, wie aktraktive ihre Arbeitsgruppe ihnen erscheint. Wieder Wertung von folgenden fragen von 1-5:
+- cooperate with each other
+- regard each other as friends
+- know that they can depend on each other
+- stand up for each other
+- work togerther as a team
+
+Hier hatte man eine [coefficient alpha](https://duckduckgo.com/?t=ffab&q=coefficient+alpha&ia=web) mit .86 .
+#### Task feature and demographics
+- Routinen
+  - routine and repetitive tasks
+  - tasks with clearly defined outcomes
+  - standard operating procedures
+  - well-defined subject matter
+  - coefficient alpha = .77
+- Job pressure
+  - crises and urgent matters
+  - time pressures
+  - coefficient alpha = .76
+- Intragroup task interdependence
+  - independent of others work
+  - fed into someone elses work
+  - dependent on input from someone elses work
+  - completed with others in a team approach
+  - coefficient alpha = .74 
+- Intergroup task interdependence
+  - gleiche wie "Intragroup task interdependence"
+  - coefficient alpha = .75 
+### Analysis
+### Results
+### Discussion
