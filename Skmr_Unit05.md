@@ -76,4 +76,16 @@ medium experience, computer experience und keyboard skills, sind wichtig damit d
 Zudem ist dort eine verknüpfung zwischen "actual use behavior of significant sources of social influence and an individuals perception of the usefulness of the technology".
 
 ### Perceived task attributes and dmographics
+Man will demographische unterschiede ausfinden um diese später aus den Ergebnissen zu bereinigen, damit ein besseres Bild von den Sozialfaktoren entstehet. Ein besonderer faktor sollen die Job routinen sein, jemand der eine arbeit hat die nicht gut gestreamlined werden kann, bevorzugt wahrscheinlich eher das telefon als eine Email, da damit effektiver kommuniziert werden kann. 
+
+Aufgaben die mehrere Gruppen überspannen, sollten auch zu mehr Kommunikation über alle verfügbaren Kanäle fördern.
+
+Die drei Demographiken die wir anschauen, sind Alter, Bildung und Geschlecht.
 ### Endogenous relationships
+Das Social influence Model sieht effiziens zur kommunikation nicht als einzigen Gewichtspunk, sondern in wie vielen Situationen man es nutzen kann.
+
+### Data and Procedures
+sehe Seite 10 grafiken
+
+Die daten wurden in einem Unternehmen, mit weltweiten standorten erhoben und die Nutzer wussten von ihrer Annonymität.
+
