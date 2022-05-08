@@ -110,7 +110,7 @@ Wurde bemessen indem die einzelnen Leute gefragt wurden, wie aktraktive ihre Arb
 - stand up for each other
 - work togerther as a team
 
-Hier hatte man eine [coefficient alpha](https://duckduckgo.com/?t=ffab&q=coefficient+alpha&ia=web) mit .86 .
+Hier hatte man eine [coefficient alpha](https://duckduckgo.com/q=coefficient+alpha&ia=web) mit .86 .
 #### Task feature and demographics
 - Routinen
   - routine and repetitive tasks
@@ -132,5 +132,17 @@ Hier hatte man eine [coefficient alpha](https://duckduckgo.com/?t=ffab&q=coeffic
   - gleiche wie "Intragroup task interdependence"
   - coefficient alpha = .75 
 ### Analysis
+#### Hypothesis 1
+Die Leute wurden in 2 Gruppen aufgeteilt, basierent auf den Median ob sie sich zu einer Gruppe hingezogen fühlen oder nicht. Die Hypothese 1 wurde versucht zu testen indem man schaut wie die t-Werte für die jeweiligen gruppen ausfallen.
+- work group usefulness to richness
+- work group usefulness to usefulness
+
+Leute mit "high-attraction" wird ein positives t erwartet und leute mit "low-attraction" ein irrelevantes t.
+
+#### Anmerkung von mir
+der bereich vom Text klingt super technisch mit erstellung von LISREL Modellen und Chi-Square. Ich verstehe das nicht und werde es nicht für diese Zusammenfassung des Textes nicht herrausfinden. Wenn du diese Infos brauchst, solltest du besser den Orginaltext lesen. Seite 15.
+
 ### Results
+[Grafiken auf Seite 16-18]
+
 ### Discussion
