@@ -21,7 +21,7 @@ defined community
 
 - Information- and Communication technologies (ICT) integrated for organizational work
 
-##Previous Research
+## Previous Research
 
 - media trait theories
 	- media choice assumed to be rational **is it?**
@@ -52,7 +52,7 @@ therefore the use of specific media
 - socially established normes
 
 
-##Company MyCo
+## Company MyCo
 
 - Two functional areas: sales and tech
 - Tech divided by:
@@ -67,7 +67,7 @@ therefore the use of specific media
 - Encouraged to spend more time at customer side
 
 
-##Company IntOrg
+## Company IntOrg
 
 - dedicated to one large customer
 - division is responsible for product performance and maintaining
@@ -88,7 +88,7 @@ therefore the use of specific media
 
 - IntOrg workers work from home
 
-## Data COllection
+## Data Collection
 
 - semi structured interviews
 - interview participants: Managers and professionals in the division
@@ -104,7 +104,6 @@ therefore the use of specific media
 - 20% of employees interviewed
 - unit team members often had similar jobs
 - often one team member joined remotely
-- 
 
 ## Physical Layouts
 
@@ -227,6 +226,6 @@ Organizational Communication Media
 - need to develop and navigate different media usage
 - increasing number of communication media
 - comparing digital with face to face often insufficient
-- 
+
 ---
 Many companies wore reluctant to let their employees to work from home, but now make good experiences with doing so. Do 
