@@ -144,5 +144,21 @@ der bereich vom Text klingt super technisch mit erstellung von LISREL Modellen u
 
 ### Results
 [Grafiken auf Seite 16-18]
+Dieser teil ist mit am abstand am schlechteste von mir geschrieben und sind in der Studie 3 Seiten, würde mir die nochmal so durchlesen. [Seite 18 - 20]
+
+Hypothese 1 konnte mit der Auswertung nachgewiesen werden und es besteht ein zusammenhang zwischen "Individual attitudes for people with high attraction to their work group" von .14 in Richness und .15 in usefulness. Die Leute mit "low-attraction" haben hingegen .07 und -.02
+
+Hypothese 2 konnte auch nachgewiesen werden und das techonlogy use behaviour von Gruppenmitgliedern sich auch auf ihr invidiuelles verhalten auszeichnet. 
+High Attraction = .41 und Low Attraction = .25
+
+Hypothese 3 wird wohl auch von den ergebnissen unterstützt, kann diese aber immer noch nicht gut interpretieren, weil es mir an vorwissen fehlt.
+
+Es eine Starke abweichung von den "high attraction group". Jedoch wird die Hypothese 4 unterstützt.
+
+Hypothese 5 ist auch wohl unterstützbar mit den Ergebnissen.
 
 ### Discussion
+
+
+### FYI
+[Chi Square](https://duckduckgo.com/q=chi+square&ia=web)
