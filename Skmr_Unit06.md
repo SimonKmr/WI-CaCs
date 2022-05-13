@@ -4,7 +4,7 @@
 - stress on health system
 - requirements for social distancing
 - knowledge workers had to work from home
-## Remotework before Covid
+## Remote work before Covid
 - optional
 - to avoid distractions
 - marginalised
@@ -13,7 +13,7 @@
 - not always from home /
 - not only remote
 
-## Remotework during Covid
+## Remote work during Covid
 - every day from home
 - no powerdistance
 - new technology
@@ -30,13 +30,16 @@ Because covid is the first pandemic with our technological advancement, there wa
 
 ## Methods
 - affordance theory
+  - behaviours with IT Objects
+  - what are the work spaces?
+- unrecognized roles of technology
+  - inventive uses of technology
 
 content| punkt 1 | punkt 2 |
 |---|---|---|
 
 
 # Literature review
-- dies ist ein Test
 
 # Research Method
 
