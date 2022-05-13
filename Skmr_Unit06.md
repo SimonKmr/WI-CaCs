@@ -43,6 +43,30 @@ content| punkt 1 | punkt 2 |
 
 # Research Method
 
+## Data collection
+- 29 interviews 
+- recruitement over social media
+- 11 Apr 2020 - 26 Apr 2020
+- interview of Author to see biases
+- Has Table of Demographics
+- [table with demographical information on p. 433]
+
+
+Surveys Asked about:
+- how they complete their tasks
+- collaborate with their peers and superiors
+- interact with their clients
+- opinion of participants
+  - regards of colaboration
+  - how to solve problems with technology
+
+## Data analysis
+- thematic analysis
+- creating initial codes
+- reviewing themes
+- theory of affordance to look at patterns (?)
+- switch between logic and data to answer our init questions (?)
+
 # Findings
 
 # Discussion and conclusion
