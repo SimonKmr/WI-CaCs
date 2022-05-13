@@ -38,15 +38,15 @@ content| punkt 1 | punkt 2 |
 # Literature review
 ## Remote e-working and COVID-19:
 ## Pre COVID-19:
--Pros:
-  -no/less (office) distraction
-  -autonomy, flexibility
-  -better work-live-balance due to work-live-fusion
+- Pros:
+  - no/less (office) distraction
+  - autonomy, flexibility
+  - better work-live-balance due to work-live-fusion
 
--Cons:
-  -blur between work-live differentiation
-  -less direct connection and interaction with company and other workers (physical distance)
-  -"emotionally demanding"
+- Cons:
+  - blur between work-live differentiation
+  - less direct connection and interaction with company and other workers (physical distance)
+  - "emotionally demanding"
   
 
 # Research Method
