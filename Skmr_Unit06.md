@@ -5,7 +5,7 @@
 - requirements for social distancing
 - knowledge workers had to work from home
 ## Remotework before Covid
-- optional 
+- optional
 - to avoid distractions
 - marginalised
 - social professional isolation
@@ -31,11 +31,12 @@ Because covid is the first pandemic with our technological advancement, there wa
 ## Methods
 - affor
 
-content| punkt 1 | punkt 2 | 
+content| punkt 1 | punkt 2 |
 |---|---|---|
 
 
 # Literature review
+- dies ist ein Test
 
 # Research Method
 
