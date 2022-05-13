@@ -29,7 +29,7 @@ Because covid is the first pandemic with our technological advancement, there wa
 - how does the work enviorment / behaviour / social impact change
 
 ## Methods
-- affor
+- affordance theory
 
 content| punkt 1 | punkt 2 | 
 |---|---|---|
