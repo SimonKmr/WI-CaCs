@@ -107,3 +107,28 @@ Surveys Asked about:
 Learning and knowledgeshareing is important for the teams success. But the new enviroment create barriers for learning and problem solving.
 
 ## Virtual meetins as a double-edged sword for team collaboration
+pros:
+- regular formal meetings
+- improved communication
+- more thoughtful communication of topics
+- established morning routines
+- more agile allocation of tasks
+
+cons:
+- virtual meeting fatigue
+  - when clashing with private schedule
+- now the need to schedule meetings to communicate
+- isolation and no personal contact for one group
+- no quiet enviroment and surrounded by people for the other
+  - children are at home aswell
+  - not everybody has his own home office
+
+## Socialising and networking through virtual channels
+No more company gatherings and going to bars
+- more international communication and networking
+- new connections independent of business structures
+- more equal integration of all workers
+- one big group discussion instead of many small groups
+- more involvement of social media / more personal
+- less urgency
+- 
