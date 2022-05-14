@@ -131,4 +131,27 @@ No more company gatherings and going to bars
 - one big group discussion instead of many small groups
 - more involvement of social media / more personal
 - less urgency
-- 
+
+# Discussion and conclusion
+Before Covid: Technological Affordance was mostly supportive
+- finishing tasks
+- connecting to remote workers
+
+Enviromental Affordance was main facilitator. During covid the affordance shifted. Less enviromental affordance and more technological affordance.
+
+more opportunities for homeworkers as well as between team members and leaders for communication. Less isolation for home workers.
+
+Communication styles had to be adjusted to be technological only. You cannot just ask your colleague something quick during the meeting.
+- No simultanious talking
+- no mingeling from group to group
+- checkin meetings are too often
+  
+Affordance enviroment and technology are pre covid complementary, now conflicting.
+- home needs to be compromised for work
+- home enviroment tanks productivity
+- does not support social interaction
+- no physical activities
+- shared with other people
+- dynamic schedules/ more autonomy
+
+affect well being of workers and prodcutivity
