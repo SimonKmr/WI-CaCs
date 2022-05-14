@@ -70,3 +70,40 @@ Surveys Asked about:
 # Findings
 
 # Discussion and conclusion
+## circumstances
+- More stress due to covid
+- shared rooms with others from the house
+- less Physical activity
+- missing social contact, toll on workers mental
+
+## 
+- loss of environmental affordances
+  - people didnt meet other ppl in rooms / buildings
+- Technological Affordances
+  - online communication
+  - workers can proceed their work and coordinate
+- Functional affordances
+  - behaviours offerd by technology
+    - visibility
+    - ediitability 
+  - remained the same
+- Social affordances
+  - increased
+  - enabler for team collaboration
+  - increased role conflict
+
+## The change in ad-hoc conversation and the impact on team communication and knowledge sharing
+- Less spontanious social interactions (informal information exchange)
+- conversations are more purpose driven
+  - increases efficiancy 
+  - more tasks are completed
+  - you need a topic to call
+  - less disruptions
+- less sponatnious meetings makes it harder to coordinate and knowledge sharing
+  - less shoulder taps
+  - cannot distinguish between busy and not busy
+  - sending too many messages makes things akward
+
+Learning and knowledgeshareing is important for the teams success. But the new enviroment create barriers for learning and problem solving.
+
+## Virtual meetins as a double-edged sword for team collaboration
