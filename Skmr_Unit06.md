@@ -35,9 +35,6 @@ Because covid is the first pandemic with our technological advancement, there wa
 - unrecognized roles of technology
   - inventive uses of technology
 
-content| punkt 1 | punkt 2 |
-|---|---|---|
-
 
 # Literature review
 
@@ -69,14 +66,13 @@ Surveys Asked about:
 
 # Findings
 
-# Discussion and conclusion
 ## circumstances
 - More stress due to covid
 - shared rooms with others from the house
 - less Physical activity
 - missing social contact, toll on workers mental
 
-## 
+## Affordance 
 - loss of environmental affordances
   - people didnt meet other ppl in rooms / buildings
 - Technological Affordances
@@ -85,7 +81,7 @@ Surveys Asked about:
 - Functional affordances
   - behaviours offerd by technology
     - visibility
-    - ediitability 
+    - editability 
   - remained the same
 - Social affordances
   - increased
@@ -155,3 +151,37 @@ Affordance enviroment and technology are pre covid complementary, now conflictin
 - dynamic schedules/ more autonomy
 
 affect well being of workers and prodcutivity
+
+## Theoretical contributions
+contribution to affordance theory, by understanding of substitution.
+- increased perception and actualisation due to withdrawal of workplace enviromental affordance
+- transferable in context of mobilities and crisis situations, when affordance changes
+
+Understanding of remote work and team collaboration, during lockdowns
+- merging of work and living spaces -> (re)negotiation and (re)arrangement of workers, working patterns and work life balance
+- functionalities of technologies dduring lockdown and leading behaviour changes and communication patterns.
+  - new possibilites
+  - old systems dont work anymore
+- new ways of productivity
+- more equality of opportunities for remote workers
+
+Working from home without preparation
+- better understanding of other literature
+- adaption / negotiation / struggles of knowledge workers
+- puts remote working in context of enforced and non volunarily
+
+## Managerial implications
+- reevaluate pace and patterns of working
+- domestic and wellbeing should be considerd while allocating tasks and planning communication
+- change processes to keep advantages which were gained during covid
+  - higher productivity
+  - reduced communication barriers
+  - integrated remote e-workers
+- How to harvest benefits of workplace affordance and home affordance
+
+## Limitations
+- narrow demographics
+- different lockdown restrictions of participants
+
+## Avenues of future research
+- 
