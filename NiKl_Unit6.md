@@ -18,6 +18,8 @@
 - affordance perspective
 - build on thesis of 4 affordances of social media usage (by Trem and Leonardi)
 
+
+
 ## From Online Knowledge Sharing to Online Communal Knowledge Conversations
 
 - historically, knowledge sharing handled by subgroups
@@ -39,9 +41,10 @@
 
 ## Metavoicing
 
-- Affordance of meta-voicing = ongoing knowledge conversationn by reacting online to others presence, profiles content and activites
+- Affordance of meta-voicing = ongoing knowledge conversation by reacting online to others presence, profiles content and activites
 - adding metaknowledge to opinion
 - Metavoicing-> possible through various technology capabilities
+- meta - not only voicing opinion and then adding additional information
 - forms: retweeting, voting posts (up- or down), commenting etc
 - helpful for decisions (see above forms, but also tagging)
 - rapid feedback
@@ -69,7 +72,7 @@ Simulataneously: can inhibit productivity when promoting biased and inaccurate i
 ## 2. Triggered Attending
 
 = engaging in online knowledge converation by remaining uninvolved in content production
-= timely automated informs of changing of specific content (not in text, eg Confluence by Atlassian)
+= timely automated informs of changing of specific content (not in text, eg Confluence by Atlassian, Wiki?)
 
 previously/Past:
 - personally monitor interisting parts to share knowledge
@@ -116,12 +119,12 @@ Summary:
 - 
 
 Summary:
-- foster productive knowledge coversation thogh reflecively reframing conversations to remove (temporarily) barriers that emerged a conversation
+- foster productive knowledge conversation though reflectively reframing conversations to remove (temporarily) barriers that emerged a conversation
 - can inhibit productivity when organizational memory is lost
 
 ## Discussion
 
-- affordances have contradictory effect (simulaniously hindering and helping)
+- affordances have contradictory effect (simultaneously hindering and helping)
 - probably also applicable outside of companies
 - tensions (among aims and the 4 knowledge sharing parts) are not always negative
 - - identifies which individuals can exert control over knowledge
@@ -145,3 +148,27 @@ Summary:
 ##QUestion
 Q1: Currently one of our group members is participating in an international project, where the group members are from different universities. Collaborating became sometimes difficult, since there is a 9 hour difference in time zones. There, miscommunication was faced because some things were misunderstood. The absence of other parts of communication like the tone in the voice of the speaker, mimic, gestics etc. could be a reason for these (in our opinion).
 Do you think, that asynchronous communication is a good idea for knowledge sharing, especially when you work in teams? How do you think that the previous stated conflicts can be reduced (which can occur in asynchronous communication)? 
+
+
+## Notes from the discussion:
+
+Often in knowledge sharing(added from discussion):
+	- from centralized to more decentralized
+	- process is more continous (coming from intermittend)
+	- from repository-based on emergent
+	(wquestion for 12 -> good shift?)
+
+Affordances -> 
+	- relationship between physical object and a user
+	- percieved action possibility
+	- Afffordance is the whole progrss of properties and relations of properties
+
+Metavoicing	
+Advantages:
+- general preference of the work community becomes more clear
+- Help online knowledge converation
+
+Disadvantages fehlen hier!
+
+Triggered Attending usw. hier fehlen Advantages und Disadvateges
+
