@@ -21,5 +21,3 @@ sending pictures to mom -> sublevel of communicating with mom
 Affordance only exists, when you do not have the connection (like the phone number)
 
 Do you think that with the choice of partly working at home, that this has a macroeconomic value/
-
-With your criticism, do you argue that the sample esp the low amount of interviews is not representative?
