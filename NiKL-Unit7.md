@@ -69,13 +69,62 @@
 - meet and socialize online
 - meet with groups (you knew before) such as clubs
 - sense of togherness
-- reason for having the time to talk -> evening activities suspended
+
 
 2. Engaging in shared social actities with families and friends
+- reason for having the time to talk -> evening activities suspended
+- viritualize social interactions that did not have taken place otherwise
 - 
 
+3. Attending events
+(viritual concerts, church, board meetings)
+- takes place online, which normally would be non-viritual
+- 
 
-3. Pursuing hobbies
+4. Pursuing hobbies
+- interactive activities
+- study does not analyze, who took part in these classes (and why)
+- viritual substitute for physical hobby, which is difficult to digitalize
 
-4. Comsuming not-recrancrantional services
+5. Comsuming not-recrancrantional services
+webinars
+- consulting virtual, also appointments
+- career advice
 
+## Constraints
+
+- issues with tech 
+- technology and lockdown-related
+
+1. Lacking features and competencies
+- setting up and getting started
+
+2. Having fear of beeing on camera
+- difficult to comply with norms and habits
+- wearing clothes while beeing at work -> people wear sleeping wear, don't wash hair, as long as they do not expect to be on a company call
+- reluctant to use the camera
+
+3. Always be on /Zoom Fatigue
+- spending much more time in meetings
+- problem of beeing isolated at home -> viritual social meetings against it
+- people then tend to limit number of video calls, try to maintain mental health
+
+4. Exposing private living space
+- new co-workers - family
+- akward situations at meetings
+- soultion: viritual backgrounds
+
+5. Lacking security - vulnerabiltiy
+- zoombombing
+- online trolling
+- peaking into peoples private life
+
+## Discussion and directions for future research
+
+- disruptiove events can lead opeople to reasess existing social norms and order
+- crisis can trigger emerge of new technologies (eg also bitcoin after financial crisis)
+- **speed of adaption to WCS was unique**
+- previously, these technologies were known, but not seen as necessary
+- **WCS had a collective process of learning**
+- 
+- 
