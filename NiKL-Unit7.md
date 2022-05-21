@@ -121,10 +121,34 @@ webinars
 
 ## Discussion and directions for future research
 
-- disruptiove events can lead opeople to reasess existing social norms and order
+- disruptive events can lead opeople to reasess existing social norms and order
 - crisis can trigger emerge of new technologies (eg also bitcoin after financial crisis)
 - **speed of adaption to WCS was unique**
 - previously, these technologies were known, but not seen as necessary
 - **WCS had a collective process of learning**
+- used also in private live, not only companies
+- **discourse, of which new established virtual practicies should stay**
+- new business models?
+- hybrid becoming more important?
+- new travel politics? is it really important to travel?
+- **WCS emerged to a standart communication channl pertaining multiple areas of life**
+- **WCS faciliated shared and synchronous social activities that apporximate real life interactions**
+- **improvement needed to make encouters more natural**
+- physical coffee machine helps to get into smalltalk -> does not work online
+- need for research: viritual togetherness vs presence
+- **WCS facilitated activities and meet­ings that would not have taken place otherwise.**
+- easy to organize meetings with people (old friends) that live far away
+- **digital inclusion of less digital fit groups**
+- **unique blending of contexts**
+- -> now blurring - private vs work
+- new features to make **good impressions**
 - 
+----
+Personal notes:
+online, it is hard to get to know new people - other that talking smalltalk at the coffee shop you visit every day
+
+Working on projects online in our experience does not foster a team spirit. Do you think that that group works are as productive as face-to-face - or even better or worse?
+
+
+In an interview with a HR manger of Telekom, I heard that they were able to register a lower amount of illness during lockdown because noone infected themselves with "normal" illnesses(since most people were only at home). Due to that, they also registered a better productivity. Do you think, that a that the new ways of communication do have a positive macroeconomic advantage?
 - 
