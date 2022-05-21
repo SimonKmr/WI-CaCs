@@ -142,7 +142,26 @@ webinars
 - **unique blending of contexts**
 - -> now blurring - private vs work
 - new features to make **good impressions**
-- 
+- to some people, virtual meetings are better than nothing
+- online meetings are not sufficient for people to feel like beeing somewhere else
+- sometimes leads to physical and mental exhaustion 
+- cyber attacks: **The more you commnuicate online- the more you are vulnerable
+- need for privacy- and security-enhancing features
+- need for employee training how to avoid issues
+-
+
+## Conclusion, limitations and outlook
+
+- analysis suggested that WCS emerge
+- temporary locked down due to corona
+- crisis stimulated people's creativity
+- benefits and constraints were discussed
+- discussed limitations
+- identified affordances
+- spam, inflated amount of information and text-
+- global community found new ways of changing
+
+
 ----
 Personal notes:
 online, it is hard to get to know new people - other that talking smalltalk at the coffee shop you visit every day
