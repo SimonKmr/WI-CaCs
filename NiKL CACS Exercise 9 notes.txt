@@ -1,0 +1,14 @@
+Exercise 09 Notes
+
+Notes regarding Text one are then in the doc of the paper
+
+
+Integrating Task into Workspace
+
+Purpose -> Task
+Task -> divide into subtasks
+hirarchicchal strucuture
+most granual level correspond to the actions
+depending on level of structure -> one can decide which work mode is suitable for the task
+(individual/collaborative)
+
